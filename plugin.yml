@@ -1,0 +1,9 @@
+name: SimpleChatL
+version: 2.0
+main: pb.lofe.chatl.ChatL
+api-version: 1.19
+commands:
+  simplechatl: {}
+  badge: {}
+softdepend:
+  - PlaceholderAPI
